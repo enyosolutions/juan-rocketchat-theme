@@ -1,0 +1,4 @@
+.full-page, .page-loading {
+    background: -webkit-linear-gradient(bottom, #022235, #04436a);
+    background: red;
+}
